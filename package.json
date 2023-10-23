@@ -1,9 +1,9 @@
 {
-  "name": "ra16-forms-hex2rgb",
+  "name": "ra16-homeworks-forms-hex2rgb",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://turovae.github.io/ra16-forms-hex2rgb/",
+  "homepage": "https://github.com/polinkavishinka/ra16-homeworks-forms-hex2rgb",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

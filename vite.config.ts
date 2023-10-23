@@ -10,7 +10,7 @@ export default defineConfig(( {command} ) => {
     base: '',
   };
 
-  if (command === 'build') setting.base = 'https://turovae.github.io/ra16-forms-hex2rgb/'
+  if (command === 'build') setting.base = 'https://polinkavishinka.github.io/ra16-homeworks-forms-hex2rgb/'
 
   return setting;
 });
