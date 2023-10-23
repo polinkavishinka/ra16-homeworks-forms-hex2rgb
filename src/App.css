@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.input,
+.result {
+  box-sizing: border-box;
+  border: none;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  width: 150px;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  line-height: 14px;
+  padding: 10px 0;
+}
+
+.input {
+  margin-bottom: 5px;
+}
+
+.result {
+  min-height: 36px;
+}
